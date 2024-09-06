@@ -1,0 +1,43 @@
+_repo: La-penetration-saharienne-1830-1906_74216
+_version: 0.0.1
+creator:
+  authors:
+  - agent_name: Bernard, Augustin
+    birthdate: 1865
+    deathdate: 1947
+    gutenberg_agent_id: '57395'
+    url: http://www.gutenberg.org/2009/agents/57395
+    wikipedia: https://fr.wikipedia.org/wiki/Augustin_Bernard
+  - agent_name: Lacroix, Napoléon
+    alias: Lacroix, Napoleon
+    birthdate: 1855
+    deathdate: 1910
+    gutenberg_agent_id: '57396'
+    url: http://www.gutenberg.org/2009/agents/57396
+description: 'Earlier edition published under title: Historique de la pénétration
+  saharienne.'
+gutenberg_issued: '2024-08-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '74216'
+language: fr
+pgterms:marc904: https://octaviana.fr/document/FJDNM034
+pgterms:marc905: 20240804230829bernard
+pgterms:marc906: '1906'
+pgterms:marc907: DZ
+production_note: Galo Flordelis (This file was produced from images generously made
+  available by Bibliothèque numérique Paris 8 (Octaviana))
+publication_note: '  $aAlgiers :$bImprimerie algérienne, $c1906.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Africa, North -- History'
+- !lcsh 'French -- Africa, North'
+- !lcsh 'French -- Sahara'
+- !lcsh 'Discoveries in geography -- French'
+- !lcsh 'Sahara -- Discovery and exploration'
+- !lcc 'DT'
+- GITenberg
+title: La pénétration saharienne (1830-1906)
+url: http://www.gutenberg.org/ebooks/74216
